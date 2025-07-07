@@ -19,12 +19,14 @@ A Python-based web scraper that monitors the [jobright-ai/2025-Product-Managemen
 ## Installation
 
 1. Clone this repository:
+
 ```bash
 git clone <repository-url>
 cd pm-internship-scraper
 ```
 
 2. Install required dependencies:
+
 ```bash
 pip install requests html2text
 ```
@@ -60,6 +62,7 @@ python scraper.py
 ```
 
 The scraper will:
+
 1. Fetch the latest README from the target repository
 2. Parse internship listings
 3. Compare with previously saved listings
@@ -88,7 +91,7 @@ You can also deploy this as a GitHub Action to run on a schedule. Create `.githu
 name: Internship Scraper
 on:
   schedule:
-    - cron: '0 */6 * * *'  # Run every 6 hours
+    - cron: "0 */6 * * *" # Run every 6 hours
   workflow_dispatch:
 
 jobs:
@@ -99,7 +102,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.9'
+          python-version: "3.9"
       - name: Install dependencies
         run: pip install requests html2text
       - name: Run scraper
@@ -142,6 +145,7 @@ self.raw_readme_url = "https://raw.githubusercontent.com/your-username/your-repo
 ### Adjusting Parsing Logic
 
 The scraper expects listings in this format:
+
 ```
 * Company Name - Position Title - Location
 ```
@@ -166,18 +170,3 @@ print(f"Parsed {len(listings)} listings")
 for listing in listings:
     print(f"  - {listing['company']}: {listing['position']}")
 ```
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Submit a pull request
-
-## Disclaimer
-
-This tool is for educational and personal use only. Please respect the terms of service of the repositories you're monitoring and email service providers you're using.
