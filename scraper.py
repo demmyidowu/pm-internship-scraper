@@ -288,17 +288,17 @@ class InternshipScraper:
         subject = f"[Internship Alert] {len(new_listings)} new listing(s)"
         
         # Create HTML email body
-        html_body = """
+        html_body = f"""
         <html>
         <head>
             <style>
-                body { font-family: Arial, sans-serif; margin: 20px; }
-                .header { background-color: #f8f9fa; padding: 15px; border-left: 4px solid #007bff; }
-                .listing { margin: 15px 0; padding: 15px; border: 1px solid #ddd; border-radius: 5px; }
-                .company { font-weight: bold; font-size: 16px; color: #333; }
-                .position { font-size: 14px; color: #666; margin: 5px 0; }
-                .location { font-size: 12px; color: #888; }
-                .apply-btn { 
+                body {{ font-family: Arial, sans-serif; margin: 20px; }}
+                .header {{ background-color: #f8f9fa; padding: 15px; border-left: 4px solid #007bff; }}
+                .listing {{ margin: 15px 0; padding: 15px; border: 1px solid #ddd; border-radius: 5px; }}
+                .company {{ font-weight: bold; font-size: 16px; color: #333; }}
+                .position {{ font-size: 14px; color: #666; margin: 5px 0; }}
+                .location {{ font-size: 12px; color: #888; }}
+                .apply-btn {{ 
                     background-color: #007bff; 
                     color: white; 
                     padding: 8px 16px; 
@@ -306,16 +306,16 @@ class InternshipScraper:
                     border-radius: 3px; 
                     display: inline-block;
                     margin-top: 10px;
-                }
-                .footer { margin-top: 20px; font-size: 12px; color: #666; }
+                }}
+                .footer {{ margin-top: 20px; font-size: 12px; color: #666; }}
             </style>
         </head>
         <body>
             <div class="header">
                 <h2>🚀 New Product Management Internship Listings</h2>
-                <p>Found {count} new internship opportunity(ies)!</p>
+                <p>Found {len(new_listings)} new internship opportunity(ies)!</p>
             </div>
-        """.format(count=len(new_listings))
+        """
         
         for listing in new_listings:
             html_body += f"""
