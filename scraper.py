@@ -40,38 +40,175 @@ class InternshipScraper:
         """Parse internship listings from README content"""
         listings = []
         
-        # Convert markdown to text for easier parsing
-        h = html2text.HTML2Text()
-        h.ignore_links = False
-        text_content = h.handle(readme_content)
+        lines = readme_content.split('\n')
+        in_table = False
         
-        # Look for company names and positions
-        # This regex pattern looks for lines that contain company names and positions
-        # Format typically: "Company Name - Position Title - Location"
-        pattern = r'^\*\s+(.+?)\s+-\s+(.+?)(?:\s+-\s+(.+?))?$'
+        for i, line in enumerate(lines):
+            line = line.strip()
+            
+            # Look for table start marker
+            if 'TABLE_START' in line or (line.startswith('| Company') and 'Job Title' in line):
+                in_table = True
+                continue
+            
+            # Look for table end marker
+            if 'TABLE_END' in line:
+                in_table = False
+                break
+            
+            # Skip header separator line
+            if line.startswith('| -') or line.startswith('|--'):
+                continue
+            
+            # Parse table rows when in table section
+            if in_table and line.startswith('|') and line.endswith('|') and line.count('|') >= 5:
+                try:
+                    # Split by | and clean up
+                    cells = [cell.strip() for cell in line.split('|')[1:-1]]  # Remove empty first/last elements
+                    
+                    if len(cells) >= 5:  # Company, Job Title, Location, Work Model, Date Posted
+                        company_cell = cells[0]
+                        job_title_cell = cells[1]
+                        location = cells[2]
+                        work_model = cells[3]
+                        date_posted = cells[4]
+                        
+                        # Extract company name and URL
+                        company_info = self.extract_company_info(company_cell)
+                        job_info = self.extract_job_info(job_title_cell)
+                        
+                        # Skip if essential info is missing
+                        if not company_info['name'] or not job_info['title']:
+                            continue
+                        
+                        # Skip separator rows with arrows (↳)
+                        if company_info['name'] == '↳' or company_info['name'] == '':
+                            # This is a continuation row, use previous company
+                            if listings:
+                                company_info['name'] = listings[-1]['company']
+                            else:
+                                continue
+                        
+                        listing = {
+                            'company': company_info['name'],
+                            'position': job_info['title'],
+                            'location': location,
+                            'work_model': work_model,
+                            'date_posted': date_posted,
+                            'apply_link': job_info['link'],
+                            'company_url': company_info['url'],
+                            'found_date': datetime.now().isoformat()
+                        }
+                        listings.append(listing)
+                        
+                except Exception as e:
+                    print(f"Error parsing line: {line[:50]}... - {e}")
+                    continue
         
-        lines = text_content.split('\n')
+        return listings
+    
+    def extract_company_info(self, company_cell: str) -> Dict[str, str]:
+        """Extract company name and URL from cell like **[TikTok](https://www.tiktok.com)**"""
+        import re
+        
+        # Remove bold formatting
+        cell = company_cell.replace('**', '')
+        
+        # Extract markdown link [Company Name](URL)
+        link_match = re.search(r'\[([^\]]+)\]\(([^)]+)\)', cell)
+        if link_match:
+            return {
+                'name': link_match.group(1).strip(),
+                'url': link_match.group(2).strip()
+            }
+        else:
+            # No link, just plain text
+            return {
+                'name': cell.strip(),
+                'url': ''
+            }
+    
+    def extract_job_info(self, job_cell: str) -> Dict[str, str]:
+        """Extract job title and application URL from job cell"""
+        import re
+        
+        # Remove bold formatting
+        cell = job_cell.replace('**', '')
+        
+        # Extract markdown link [Job Title](URL)
+        link_match = re.search(r'\[([^\]]+)\]\(([^)]+)\)', cell)
+        if link_match:
+            return {
+                'title': link_match.group(1).strip(),
+                'link': link_match.group(2).strip()
+            }
+        else:
+            # No link, just plain text
+            return {
+                'title': cell.strip(),
+                'link': ''
+            }
+    
+    def clean_cell_content(self, cell: str) -> str:
+        """Clean markdown formatting from table cell content"""
+        # Remove markdown links but keep the text
+        import re
+        # Remove [text](link) format but keep text
+        cell = re.sub(r'\[([^\]]+)\]\([^)]+\)', r'\1', cell)
+        # Remove **bold** formatting
+        cell = re.sub(r'\*\*([^*]+)\*\*', r'\1', cell)
+        # Remove other markdown formatting
+        cell = cell.replace('**', '').replace('*', '').replace('`', '')
+        return cell.strip()
+    
+    def extract_link_from_cells(self, cells: List[str]) -> str:
+        """Extract application link from table cells"""
+        import re
+        for cell in cells:
+            # Look for markdown links
+            link_match = re.search(r'\[([^\]]*)\]\(([^)]+)\)', cell)
+            if link_match:
+                link_text = link_match.group(1).lower()
+                link_url = link_match.group(2)
+                # Check if it's an application link
+                if 'apply' in link_text or 'job' in link_text or link_url.startswith('http'):
+                    return link_url
+        return ""
+    
+    def parse_alternative_format(self, readme_content: str) -> List[Dict]:
+        """Alternative parsing for different formats"""
+        listings = []
+        lines = readme_content.split('\n')
+        
         for line in lines:
             line = line.strip()
-            if line.startswith('*') and ' - ' in line:
-                # Extract company and position info
-                parts = line[1:].strip().split(' - ')
+            # Look for lines that mention companies and positions
+            if ('intern' in line.lower() and 
+                ('|' in line or '-' in line) and 
+                len(line) > 20 and
+                not line.startswith('#')):
+                
+                # Try to extract company and position info
+                parts = []
+                if '|' in line:
+                    parts = [p.strip() for p in line.split('|') if p.strip()]
+                elif ' - ' in line:
+                    parts = [p.strip() for p in line.split(' - ') if p.strip()]
+                
                 if len(parts) >= 2:
-                    company = parts[0].strip()
-                    position = parts[1].strip()
-                    location = parts[2].strip() if len(parts) > 2 else "Not specified"
+                    company = self.clean_cell_content(parts[0])
+                    position = self.clean_cell_content(parts[1])
+                    location = self.clean_cell_content(parts[2]) if len(parts) > 2 else "Not specified"
                     
-                    # Look for application links in the surrounding context
-                    apply_link = self.find_apply_link(line, readme_content)
-                    
-                    listing = {
-                        'company': company,
-                        'position': position,
-                        'location': location,
-                        'apply_link': apply_link,
-                        'found_date': datetime.now().isoformat()
-                    }
-                    listings.append(listing)
+                    if company and position and len(company) > 1 and len(position) > 5:
+                        listing = {
+                            'company': company,
+                            'position': position,
+                            'location': location,
+                            'apply_link': self.extract_link_from_cells(parts),
+                            'found_date': datetime.now().isoformat()
+                        }
+                        listings.append(listing)
         
         return listings
     
@@ -183,10 +320,12 @@ class InternshipScraper:
         for listing in new_listings:
             html_body += f"""
             <div class="listing">
-                <div class="company">{listing['company']}</div>
+                <div class="company">
+                    {f'<a href="{listing["company_url"]}" target="_blank">{listing["company"]}</a>' if listing.get("company_url") else listing['company']}
+                </div>
                 <div class="position">{listing['position']}</div>
-                <div class="location">📍 {listing['location']}</div>
-                {f'<a href="{listing["apply_link"]}" class="apply-btn">Apply</a>' if listing['apply_link'] else ''}
+                <div class="location">📍 {listing['location']} • {listing.get('work_model', '')} • Posted: {listing.get('date_posted', '')}</div>
+                {f'<a href="{listing["apply_link"]}" class="apply-btn" target="_blank">Apply Now</a>' if listing.get('apply_link') else ''}
             </div>
             """
         
@@ -203,8 +342,9 @@ class InternshipScraper:
         text_body = f"New Product Management Internship Listings ({len(new_listings)} found):\n\n"
         for listing in new_listings:
             text_body += f"• {listing['company']} - {listing['position']}\n"
-            text_body += f"  Location: {listing['location']}\n"
-            if listing['apply_link']:
+            text_body += f"  Location: {listing['location']} ({listing.get('work_model', 'N/A')})\n"
+            text_body += f"  Posted: {listing.get('date_posted', 'N/A')}\n"
+            if listing.get('apply_link'):
                 text_body += f"  Apply: {listing['apply_link']}\n"
             text_body += "\n"
         
@@ -243,9 +383,21 @@ class InternshipScraper:
             print("Failed to fetch README content")
             return
         
+        print(f"README content length: {len(readme_content)} characters")
+        print("First 500 characters of README:")
+        print("-" * 50)
+        print(readme_content[:500])
+        print("-" * 50)
+        
         # Parse current listings
         current_listings = self.parse_internship_listings(readme_content)
         print(f"Found {len(current_listings)} total listings")
+        
+        # Debug: Show some sample listings
+        if current_listings:
+            print("Sample listings found:")
+            for i, listing in enumerate(current_listings[:3]):  # Show first 3
+                print(f"  {i+1}. {listing['company']} - {listing['position']}")
         
         # Load previous listings
         previous_listings = self.load_previous_listings()
