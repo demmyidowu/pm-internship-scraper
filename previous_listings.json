@@ -1,5 +1,55 @@
 [
   {
+    "company": "Inspire",
+    "position": "Guest Product Management Internship - Summer 2026",
+    "location": "Boston Support Center",
+    "work_model": "On Site",
+    "date_posted": "Aug 29",
+    "apply_link": "https://jobright.ai/jobs/info/68b204b91ade4306aa633dbd?utm_campaign=1047&utm_source=git",
+    "company_url": "https://inspirebrands.com",
+    "found_date": "2025-08-29T21:30:50.640745"
+  },
+  {
+    "company": "Inspire",
+    "position": "Guest Product Management Internship - Summer 2026",
+    "location": "Atlanta Support Center",
+    "work_model": "On Site",
+    "date_posted": "Aug 29",
+    "apply_link": "https://jobright.ai/jobs/info/68b20399bc187f64e1bd8b5a?utm_campaign=1047&utm_source=git",
+    "company_url": "",
+    "found_date": "2025-08-29T21:30:50.640766"
+  },
+  {
+    "company": "X-Rite",
+    "position": "Product Manager",
+    "location": "Loveland, Colorado, United States",
+    "work_model": "On Site",
+    "date_posted": "Aug 29",
+    "apply_link": "https://jobright.ai/jobs/info/68b1f9b01ade4306aa6335a4?utm_campaign=1047&utm_source=git",
+    "company_url": "http://www.xrite.com",
+    "found_date": "2025-08-29T21:30:50.640776"
+  },
+  {
+    "company": "Transcard",
+    "position": "2026 - Product Analyst Intern",
+    "location": "Chattanooga, TN",
+    "work_model": "Hybrid",
+    "date_posted": "Aug 29",
+    "apply_link": "https://jobright.ai/jobs/info/68b1f8d2f4e41a61efd81258?utm_campaign=1047&utm_source=git",
+    "company_url": "http://www.transcard.com",
+    "found_date": "2025-08-29T21:30:50.640784"
+  },
+  {
+    "company": "ProAmpac",
+    "position": "Product Development Intern",
+    "location": "Rochester, NY",
+    "work_model": "On Site",
+    "date_posted": "Aug 29",
+    "apply_link": "https://jobright.ai/jobs/info/68b1f42bf4e41a61efd80eca?utm_campaign=1047&utm_source=git",
+    "company_url": "http://www.proampac.com/",
+    "found_date": "2025-08-29T21:30:50.640792"
+  },
+  {
     "company": "Henkel",
     "position": "Product Development Intern \u2013 Summer 2026",
     "location": "Rocky Hill, CT",
@@ -7,7 +57,17 @@
     "date_posted": "Aug 29",
     "apply_link": "https://jobright.ai/jobs/info/68b1e671bc187f64e1bd799c?utm_campaign=1047&utm_source=git",
     "company_url": "http://www.henkel.com",
-    "found_date": "2025-08-29T21:00:35.111569"
+    "found_date": "2025-08-29T21:30:50.640803"
+  },
+  {
+    "company": "X-Rite",
+    "position": "Product Manager/Marketing Manager",
+    "location": "Loveland, Colorado, United States",
+    "work_model": "On Site",
+    "date_posted": "Aug 29",
+    "apply_link": "https://jobright.ai/jobs/info/68b1e88cf4e41a61efd80a37?utm_campaign=1047&utm_source=git",
+    "company_url": "http://www.xrite.com",
+    "found_date": "2025-08-29T21:30:50.640810"
   },
   {
     "company": "Red Hat",
@@ -17,7 +77,7 @@
     "date_posted": "Aug 29",
     "apply_link": "https://jobright.ai/jobs/info/68b1e659f4e41a61efd808ab?utm_campaign=1047&utm_source=git",
     "company_url": "http://www.redhat.com",
-    "found_date": "2025-08-29T21:00:35.111588"
+    "found_date": "2025-08-29T21:30:50.640819"
   },
   {
     "company": "Red Hat",
@@ -27,7 +87,7 @@
     "date_posted": "Aug 29",
     "apply_link": "https://jobright.ai/jobs/info/68b1e5babc187f64e1bd7918?utm_campaign=1047&utm_source=git",
     "company_url": "",
-    "found_date": "2025-08-29T21:00:35.111599"
+    "found_date": "2025-08-29T21:30:50.640827"
   },
   {
     "company": "HCA Healthcare",
@@ -37,7 +97,7 @@
     "date_posted": "Aug 29",
     "apply_link": "https://jobright.ai/jobs/info/68b1ce1ef4e41a61efd7fcbb?utm_campaign=1047&utm_source=git",
     "company_url": "https://hcahealthcare.com/",
-    "found_date": "2025-08-29T21:00:35.111608"
+    "found_date": "2025-08-29T21:30:50.640834"
   },
   {
     "company": "Nationwide",
@@ -47,7 +107,7 @@
     "date_posted": "Aug 29",
     "apply_link": "https://jobright.ai/jobs/info/68b1cbd2f4e41a61efd7fb94?utm_campaign=1047&utm_source=git",
     "company_url": "http://nationwide.com",
-    "found_date": "2025-08-29T21:00:35.111615"
+    "found_date": "2025-08-29T21:30:50.640841"
   },
   {
     "company": "Nationwide",
@@ -57,7 +117,7 @@
     "date_posted": "Aug 29",
     "apply_link": "https://jobright.ai/jobs/info/68b1cac5bc187f64e1bd6dbc?utm_campaign=1047&utm_source=git",
     "company_url": "",
-    "found_date": "2025-08-29T21:00:35.111624"
+    "found_date": "2025-08-29T21:30:50.640848"
   },
   {
     "company": "F.N.B. Corporation",
@@ -65,9 +125,9 @@
     "location": "Pittsburgh, PA",
     "work_model": "On Site",
     "date_posted": "Aug 29",
-    "apply_link": "https://jobright.ai/jobs/info/68b1c395bc187f64e1bd692c?utm_campaign=1047&utm_source=git",
+    "apply_link": "https://jobright.ai/jobs/info/68b1c73e1ade4306aa631d34?utm_campaign=1047&utm_source=git",
     "company_url": "https://www.fnb-online.com",
-    "found_date": "2025-08-29T21:00:35.111631"
+    "found_date": "2025-08-29T21:30:50.640854"
   },
   {
     "company": "Louis Vuitton",
@@ -77,7 +137,7 @@
     "date_posted": "Aug 29",
     "apply_link": "https://jobright.ai/jobs/info/68b1b5b5bc187f64e1bd640f?utm_campaign=1047&utm_source=git",
     "company_url": "http://www.louisvuitton.com",
-    "found_date": "2025-08-29T21:00:35.111640"
+    "found_date": "2025-08-29T21:30:50.640861"
   },
   {
     "company": "Red Hat",
@@ -87,7 +147,7 @@
     "date_posted": "Aug 29",
     "apply_link": "https://jobright.ai/jobs/info/68b1aed7f4e41a61efd7efe2?utm_campaign=1047&utm_source=git",
     "company_url": "http://www.redhat.com",
-    "found_date": "2025-08-29T21:00:35.111647"
+    "found_date": "2025-08-29T21:30:50.640867"
   },
   {
     "company": "Red Hat",
@@ -97,7 +157,7 @@
     "date_posted": "Aug 29",
     "apply_link": "https://jobright.ai/jobs/info/68b1ae4ebc187f64e1bd60cf?utm_campaign=1047&utm_source=git",
     "company_url": "",
-    "found_date": "2025-08-29T21:00:35.111654"
+    "found_date": "2025-08-29T21:30:50.640874"
   },
   {
     "company": "Henkel",
@@ -107,7 +167,7 @@
     "date_posted": "Aug 29",
     "apply_link": "https://jobright.ai/jobs/info/68b19f2cbc187f64e1bd59cb?utm_campaign=1047&utm_source=git",
     "company_url": "http://www.henkel.com",
-    "found_date": "2025-08-29T21:00:35.111662"
+    "found_date": "2025-08-29T21:30:50.640881"
   },
   {
     "company": "Molex",
@@ -117,7 +177,7 @@
     "date_posted": "Aug 29",
     "apply_link": "https://jobright.ai/jobs/info/68b1591be815524ae11fe038?utm_campaign=1047&utm_source=git",
     "company_url": "http://www.molex.com",
-    "found_date": "2025-08-29T21:00:35.111669"
+    "found_date": "2025-08-29T21:30:50.640888"
   },
   {
     "company": "Molex",
@@ -127,7 +187,7 @@
     "date_posted": "Aug 29",
     "apply_link": "https://jobright.ai/jobs/info/68b17160e45862482170ee54?utm_campaign=1047&utm_source=git",
     "company_url": "",
-    "found_date": "2025-08-29T21:00:35.111675"
+    "found_date": "2025-08-29T21:30:50.640895"
   },
   {
     "company": "Tesla",
@@ -137,7 +197,7 @@
     "date_posted": "Aug 28",
     "apply_link": "https://jobright.ai/jobs/info/68b0d411b47fb001d6895c32?utm_campaign=1047&utm_source=git",
     "company_url": "https://www.tesla.com",
-    "found_date": "2025-08-29T21:00:35.111681"
+    "found_date": "2025-08-29T21:30:50.640901"
   },
   {
     "company": "Medline Industries, LP",
@@ -147,7 +207,7 @@
     "date_posted": "Aug 28",
     "apply_link": "https://jobright.ai/jobs/info/68b0a182b47fb001d6893f46?utm_campaign=1047&utm_source=git",
     "company_url": "http://www.medline.com/home.jsp",
-    "found_date": "2025-08-29T21:00:35.111687"
+    "found_date": "2025-08-29T21:30:50.640907"
   },
   {
     "company": "Medline Industries, LP",
@@ -157,7 +217,7 @@
     "date_posted": "Aug 28",
     "apply_link": "https://jobright.ai/jobs/info/68b088332d46f6396cae650e?utm_campaign=1047&utm_source=git",
     "company_url": "",
-    "found_date": "2025-08-29T21:00:35.111694"
+    "found_date": "2025-08-29T21:30:50.640914"
   },
   {
     "company": "Medline Industries, LP",
@@ -167,7 +227,7 @@
     "date_posted": "Aug 28",
     "apply_link": "https://jobright.ai/jobs/info/68b08832b47fb001d689324e?utm_campaign=1047&utm_source=git",
     "company_url": "",
-    "found_date": "2025-08-29T21:00:35.111700"
+    "found_date": "2025-08-29T21:30:50.640919"
   },
   {
     "company": "OCBC",
@@ -177,7 +237,7 @@
     "date_posted": "Aug 28",
     "apply_link": "",
     "company_url": "http://www.ocbc.com",
-    "found_date": "2025-08-29T21:00:35.111707"
+    "found_date": "2025-08-29T21:30:50.640926"
   },
   {
     "company": "Relay",
@@ -187,7 +247,7 @@
     "date_posted": "Aug 28",
     "apply_link": "https://jobright.ai/jobs/info/68b01b3ab47fb001d688f9c0?utm_campaign=1047&utm_source=git",
     "company_url": "https://relaypro.com",
-    "found_date": "2025-08-29T21:00:35.111713"
+    "found_date": "2025-08-29T21:30:50.640932"
   },
   {
     "company": "Copart",
@@ -197,7 +257,7 @@
     "date_posted": "Aug 27",
     "apply_link": "https://jobright.ai/jobs/info/68afc6e5e723db6c9b7b34ac?utm_campaign=1047&utm_source=git",
     "company_url": "http://www.copart.com",
-    "found_date": "2025-08-29T21:00:35.111770"
+    "found_date": "2025-08-29T21:30:50.640938"
   },
   {
     "company": "Zebra Technologies",
@@ -207,7 +267,7 @@
     "date_posted": "Aug 27",
     "apply_link": "https://jobright.ai/jobs/info/68afa6001f0a2a568a062fcc?utm_campaign=1047&utm_source=git",
     "company_url": "https://www.zebra.com",
-    "found_date": "2025-08-29T21:00:35.111779"
+    "found_date": "2025-08-29T21:30:50.640945"
   },
   {
     "company": "Mastercard",
@@ -217,7 +277,7 @@
     "date_posted": "Aug 27",
     "apply_link": "https://jobright.ai/jobs/info/68af7eeb2daaba398441ecad?utm_campaign=1047&utm_source=git",
     "company_url": "http://www.mastercard.com",
-    "found_date": "2025-08-29T21:00:35.111785"
+    "found_date": "2025-08-29T21:30:50.640950"
   },
   {
     "company": "Mastercard",
@@ -227,7 +287,7 @@
     "date_posted": "Aug 27",
     "apply_link": "https://jobright.ai/jobs/info/68af7ece2daaba398441ec8e?utm_campaign=1047&utm_source=git",
     "company_url": "",
-    "found_date": "2025-08-29T21:00:35.111793"
+    "found_date": "2025-08-29T21:30:50.640956"
   },
   {
     "company": "Mastercard",
@@ -237,7 +297,7 @@
     "date_posted": "Aug 27",
     "apply_link": "https://jobright.ai/jobs/info/68af7e1f1f0a2a568a0622d1?utm_campaign=1047&utm_source=git",
     "company_url": "",
-    "found_date": "2025-08-29T21:00:35.111799"
+    "found_date": "2025-08-29T21:30:50.640962"
   },
   {
     "company": "Munich Re",
@@ -247,7 +307,7 @@
     "date_posted": "Aug 27",
     "apply_link": "https://jobright.ai/jobs/info/68af6ae82daaba398441e066?utm_campaign=1047&utm_source=git",
     "company_url": "https://www.munichre.com",
-    "found_date": "2025-08-29T21:00:35.111806"
+    "found_date": "2025-08-29T21:30:50.640968"
   },
   {
     "company": "Wonder",
@@ -257,7 +317,7 @@
     "date_posted": "Aug 27",
     "apply_link": "https://jobright.ai/jobs/info/68af5f44962903596357c34d?utm_campaign=1047&utm_source=git",
     "company_url": "https://www.wonder.com",
-    "found_date": "2025-08-29T21:00:35.111812"
+    "found_date": "2025-08-29T21:30:50.640973"
   },
   {
     "company": "Hormel Foods",
@@ -267,7 +327,7 @@
     "date_posted": "Aug 27",
     "apply_link": "https://jobright.ai/jobs/info/68af54a82daaba398441d4c3?utm_campaign=1047&utm_source=git",
     "company_url": "http://www.hormelfoods.com/",
-    "found_date": "2025-08-29T21:00:35.111819"
+    "found_date": "2025-08-29T21:30:50.640979"
   },
   {
     "company": "Hormel Foods",
@@ -277,7 +337,7 @@
     "date_posted": "Aug 27",
     "apply_link": "https://jobright.ai/jobs/info/68af534b2daaba398441d345?utm_campaign=1047&utm_source=git",
     "company_url": "",
-    "found_date": "2025-08-29T21:00:35.111825"
+    "found_date": "2025-08-29T21:30:50.640985"
   },
   {
     "company": "Analog Devices",
@@ -287,7 +347,7 @@
     "date_posted": "Aug 26",
     "apply_link": "https://jobright.ai/jobs/info/68aea9cf7bcb7608b3d28c39?utm_campaign=1047&utm_source=git",
     "company_url": "http://www.analog.com",
-    "found_date": "2025-08-29T21:00:35.111831"
+    "found_date": "2025-08-29T21:30:50.640991"
   },
   {
     "company": "SharkNinja",
@@ -297,7 +357,7 @@
     "date_posted": "Aug 26",
     "apply_link": "https://jobright.ai/jobs/info/68ae9b3903c5f15c2fd8a62e?utm_campaign=1047&utm_source=git",
     "company_url": "http://www.sharkninja.com",
-    "found_date": "2025-08-29T21:00:35.111838"
+    "found_date": "2025-08-29T21:30:50.640997"
   },
   {
     "company": "SharkNinja",
@@ -307,7 +367,7 @@
     "date_posted": "Aug 26",
     "apply_link": "https://jobright.ai/jobs/info/68ae9aa42daaba3984418f46?utm_campaign=1047&utm_source=git",
     "company_url": "",
-    "found_date": "2025-08-29T21:00:35.111843"
+    "found_date": "2025-08-29T21:30:50.641003"
   },
   {
     "company": "SharkNinja",
@@ -317,7 +377,7 @@
     "date_posted": "Aug 26",
     "apply_link": "https://jobright.ai/jobs/info/68ae994903c5f15c2fd8a42d?utm_campaign=1047&utm_source=git",
     "company_url": "",
-    "found_date": "2025-08-29T21:00:35.111851"
+    "found_date": "2025-08-29T21:30:50.641009"
   },
   {
     "company": "Analog Devices",
@@ -327,7 +387,7 @@
     "date_posted": "Aug 26",
     "apply_link": "https://jobright.ai/jobs/info/68ae898ddaf1431824ca3cc3?utm_campaign=1047&utm_source=git",
     "company_url": "http://www.analog.com",
-    "found_date": "2025-08-29T21:00:35.111857"
+    "found_date": "2025-08-29T21:30:50.641015"
   },
   {
     "company": "Analog Devices",
@@ -337,7 +397,7 @@
     "date_posted": "Aug 26",
     "apply_link": "https://jobright.ai/jobs/info/68ae894ed627244576e54c5d?utm_campaign=1047&utm_source=git",
     "company_url": "",
-    "found_date": "2025-08-29T21:00:35.111864"
+    "found_date": "2025-08-29T21:30:50.641021"
   },
   {
     "company": "Analog Devices",
@@ -347,7 +407,7 @@
     "date_posted": "Aug 26",
     "apply_link": "https://jobright.ai/jobs/info/68ae88eddaf1431824ca3c83?utm_campaign=1047&utm_source=git",
     "company_url": "",
-    "found_date": "2025-08-29T21:00:35.111870"
+    "found_date": "2025-08-29T21:30:50.641026"
   },
   {
     "company": "Altruist",
@@ -357,17 +417,7 @@
     "date_posted": "Aug 26",
     "apply_link": "https://jobright.ai/jobs/info/68b124c26fab621da7b0a1c2?utm_campaign=1047&utm_source=git",
     "company_url": "https://altruist.com",
-    "found_date": "2025-08-29T21:00:35.111876"
-  },
-  {
-    "company": "Zebra Technologies",
-    "position": "2026 Summer Internship (US) - Gen AI Product Management",
-    "location": "Holtsville, NY",
-    "work_model": "On Site",
-    "date_posted": "Aug 26",
-    "apply_link": "https://jobright.ai/jobs/info/68ae3e71758f2e4ac3012453?utm_campaign=1047&utm_source=git",
-    "company_url": "https://www.zebra.com",
-    "found_date": "2025-08-29T21:00:35.111882"
+    "found_date": "2025-08-29T21:30:50.641033"
   },
   {
     "company": "Grange Insurance",
@@ -377,7 +427,7 @@
     "date_posted": "Aug 26",
     "apply_link": "https://jobright.ai/jobs/info/68ae016e758f2e4ac30101aa?utm_campaign=1047&utm_source=git",
     "company_url": "https://www.grangeinsurance.com/",
-    "found_date": "2025-08-29T21:00:35.111888"
+    "found_date": "2025-08-29T21:30:50.641039"
   },
   {
     "company": "Pentair",
@@ -387,7 +437,7 @@
     "date_posted": "Aug 26",
     "apply_link": "https://jobright.ai/jobs/info/689173bcf5ee707a15dbe991?utm_campaign=1047&utm_source=git",
     "company_url": "http://www.pentair.com",
-    "found_date": "2025-08-29T21:00:35.111894"
+    "found_date": "2025-08-29T21:30:50.641045"
   },
   {
     "company": "SharkNinja",
@@ -397,7 +447,7 @@
     "date_posted": "Aug 26",
     "apply_link": "https://jobright.ai/jobs/info/68adc42cd627244576e4ec5f?utm_campaign=1047&utm_source=git",
     "company_url": "http://www.sharkninja.com",
-    "found_date": "2025-08-29T21:00:35.111899"
+    "found_date": "2025-08-29T21:30:50.641051"
   },
   {
     "company": "Altruist",
@@ -407,7 +457,7 @@
     "date_posted": "Aug 26",
     "apply_link": "https://jobright.ai/jobs/info/6891439c4c7e851b90acd4c6?utm_campaign=1047&utm_source=git",
     "company_url": "https://altruist.com",
-    "found_date": "2025-08-29T21:00:35.111905"
+    "found_date": "2025-08-29T21:30:50.641057"
   },
   {
     "company": "SharkNinja",
@@ -417,7 +467,7 @@
     "date_posted": "Aug 26",
     "apply_link": "https://jobright.ai/jobs/info/68adb094758f2e4ac300e0f0?utm_campaign=1047&utm_source=git",
     "company_url": "http://www.sharkninja.com",
-    "found_date": "2025-08-29T21:00:35.111911"
+    "found_date": "2025-08-29T21:30:50.641063"
   },
   {
     "company": "SharkNinja",
@@ -427,7 +477,7 @@
     "date_posted": "Aug 26",
     "apply_link": "https://jobright.ai/jobs/info/68adb081daf1431824c9d7dc?utm_campaign=1047&utm_source=git",
     "company_url": "",
-    "found_date": "2025-08-29T21:00:35.111917"
+    "found_date": "2025-08-29T21:30:50.641069"
   },
   {
     "company": "Pentair",
@@ -437,7 +487,7 @@
     "date_posted": "Aug 26",
     "apply_link": "https://jobright.ai/jobs/info/689171aef5ee707a15dbe8e6?utm_campaign=1047&utm_source=git",
     "company_url": "http://www.pentair.com",
-    "found_date": "2025-08-29T21:00:35.111923"
+    "found_date": "2025-08-29T21:30:50.641075"
   },
   {
     "company": "Pentair",
@@ -447,7 +497,7 @@
     "date_posted": "Aug 26",
     "apply_link": "https://jobright.ai/jobs/info/689177d14c7e851b90acedf1?utm_campaign=1047&utm_source=git",
     "company_url": "",
-    "found_date": "2025-08-29T21:00:35.111929"
+    "found_date": "2025-08-29T21:30:50.641081"
   },
   {
     "company": "Pentair",
@@ -457,7 +507,7 @@
     "date_posted": "Aug 26",
     "apply_link": "https://jobright.ai/jobs/info/68916c18f47efe21139551b8?utm_campaign=1047&utm_source=git",
     "company_url": "",
-    "found_date": "2025-08-29T21:00:35.111934"
+    "found_date": "2025-08-29T21:30:50.641086"
   },
   {
     "company": "Pentair",
@@ -467,7 +517,7 @@
     "date_posted": "Aug 26",
     "apply_link": "https://jobright.ai/jobs/info/689170aef47efe21139553b1?utm_campaign=1047&utm_source=git",
     "company_url": "",
-    "found_date": "2025-08-29T21:00:35.111940"
+    "found_date": "2025-08-29T21:30:50.641092"
   },
   {
     "company": "Pentair",
@@ -477,7 +527,7 @@
     "date_posted": "Aug 26",
     "apply_link": "https://jobright.ai/jobs/info/689174c1f5ee707a15dbea11?utm_campaign=1047&utm_source=git",
     "company_url": "",
-    "found_date": "2025-08-29T21:00:35.111946"
+    "found_date": "2025-08-29T21:30:50.641097"
   },
   {
     "company": "Pentair",
@@ -487,7 +537,7 @@
     "date_posted": "Aug 26",
     "apply_link": "https://jobright.ai/jobs/info/689175e6f47efe2113955864?utm_campaign=1047&utm_source=git",
     "company_url": "",
-    "found_date": "2025-08-29T21:00:35.111952"
+    "found_date": "2025-08-29T21:30:50.641103"
   },
   {
     "company": "A Igreja de Jesus Cristo dos Santos dos \u00daltimos Dias",
@@ -497,7 +547,7 @@
     "date_posted": "Aug 25",
     "apply_link": "https://jobright.ai/jobs/info/68b135136fab621da7b0aeb8?utm_campaign=1047&utm_source=git",
     "company_url": "https://www.churchofjesuschrist.org/?lang=por",
-    "found_date": "2025-08-29T21:00:35.111960"
+    "found_date": "2025-08-29T21:30:50.641111"
   },
   {
     "company": "Tru Fragrance & Beauty",
@@ -507,7 +557,7 @@
     "date_posted": "Aug 25",
     "apply_link": "https://jobright.ai/jobs/info/68acc2b0758f2e4ac30088cc?utm_campaign=1047&utm_source=git",
     "company_url": "https://www.trufragrance.com",
-    "found_date": "2025-08-29T21:00:35.111967"
+    "found_date": "2025-08-29T21:30:50.641118"
   },
   {
     "company": "Vertiv",
@@ -517,7 +567,7 @@
     "date_posted": "Aug 25",
     "apply_link": "https://jobright.ai/jobs/info/68aca838758f2e4ac300772f?utm_campaign=1047&utm_source=git",
     "company_url": "https://www.Vertiv.com",
-    "found_date": "2025-08-29T21:00:35.111973"
+    "found_date": "2025-08-29T21:30:50.641124"
   },
   {
     "company": "E.L.F. BEAUTY",
@@ -527,7 +577,7 @@
     "date_posted": "Aug 25",
     "apply_link": "https://jobright.ai/jobs/info/68aca754758f2e4ac3007668?utm_campaign=1047&utm_source=git",
     "company_url": "https://www.elfbeauty.com",
-    "found_date": "2025-08-29T21:00:35.111979"
+    "found_date": "2025-08-29T21:30:50.641130"
   },
   {
     "company": "Vertiv",
@@ -537,7 +587,7 @@
     "date_posted": "Aug 25",
     "apply_link": "https://jobright.ai/jobs/info/68aca463d627244576e478c6?utm_campaign=1047&utm_source=git",
     "company_url": "https://www.Vertiv.com",
-    "found_date": "2025-08-29T21:00:35.111985"
+    "found_date": "2025-08-29T21:30:50.641135"
   },
   {
     "company": "Vertiv",
@@ -547,7 +597,7 @@
     "date_posted": "Aug 25",
     "apply_link": "https://jobright.ai/jobs/info/68ac9afad627244576e473c3?utm_campaign=1047&utm_source=git",
     "company_url": "",
-    "found_date": "2025-08-29T21:00:35.111992"
+    "found_date": "2025-08-29T21:30:50.641142"
   },
   {
     "company": "Vertiv",
@@ -557,7 +607,7 @@
     "date_posted": "Aug 25",
     "apply_link": "https://jobright.ai/jobs/info/68ac9a3f758f2e4ac3006d42?utm_campaign=1047&utm_source=git",
     "company_url": "",
-    "found_date": "2025-08-29T21:00:35.111998"
+    "found_date": "2025-08-29T21:30:50.641148"
   },
   {
     "company": "Vertiv",
@@ -567,7 +617,7 @@
     "date_posted": "Aug 25",
     "apply_link": "https://jobright.ai/jobs/info/68ac9637daf1431824c963ff?utm_campaign=1047&utm_source=git",
     "company_url": "",
-    "found_date": "2025-08-29T21:00:35.112004"
+    "found_date": "2025-08-29T21:30:50.641153"
   },
   {
     "company": "Vertiv",
@@ -577,7 +627,7 @@
     "date_posted": "Aug 25",
     "apply_link": "https://jobright.ai/jobs/info/68ac9633d627244576e47011?utm_campaign=1047&utm_source=git",
     "company_url": "",
-    "found_date": "2025-08-29T21:00:35.112009"
+    "found_date": "2025-08-29T21:30:50.641175"
   },
   {
     "company": "Vertiv",
@@ -585,9 +635,9 @@
     "location": "Delaware, OH, United States",
     "work_model": "On Site",
     "date_posted": "Aug 25",
-    "apply_link": "https://jobright.ai/jobs/info/68ac956bd627244576e46fe3?utm_campaign=1047&utm_source=git",
+    "apply_link": "https://jobright.ai/jobs/info/68ac95c7d627244576e46ff9?utm_campaign=1047&utm_source=git",
     "company_url": "",
-    "found_date": "2025-08-29T21:00:35.112015"
+    "found_date": "2025-08-29T21:30:50.641181"
   },
   {
     "company": "Vertiv",
@@ -597,7 +647,7 @@
     "date_posted": "Aug 25",
     "apply_link": "https://jobright.ai/jobs/info/68ac79be758f2e4ac3005e17?utm_campaign=1047&utm_source=git",
     "company_url": "",
-    "found_date": "2025-08-29T21:00:35.112021"
+    "found_date": "2025-08-29T21:30:50.641187"
   },
   {
     "company": "Prudential Financial",
@@ -607,7 +657,7 @@
     "date_posted": "Aug 25",
     "apply_link": "https://jobright.ai/jobs/info/68ac773ad627244576e460a7?utm_campaign=1047&utm_source=git",
     "company_url": "http://www.prudential.com",
-    "found_date": "2025-08-29T21:00:35.112027"
+    "found_date": "2025-08-29T21:30:50.641194"
   },
   {
     "company": "The Church of Jesus Christ of Latter-day Saints",
@@ -617,7 +667,7 @@
     "date_posted": "Aug 25",
     "apply_link": "https://jobright.ai/jobs/info/68ac76dcd627244576e4604a?utm_campaign=1047&utm_source=git",
     "company_url": "https://www.lds.org",
-    "found_date": "2025-08-29T21:00:35.112033"
+    "found_date": "2025-08-29T21:30:50.641201"
   },
   {
     "company": "E.L.F. BEAUTY",
@@ -627,7 +677,7 @@
     "date_posted": "Aug 25",
     "apply_link": "https://jobright.ai/jobs/info/68ac7688758f2e4ac3005c5d?utm_campaign=1047&utm_source=git",
     "company_url": "https://www.elfbeauty.com",
-    "found_date": "2025-08-29T21:00:35.112039"
+    "found_date": "2025-08-29T21:30:50.641207"
   },
   {
     "company": "PGIM",
@@ -637,7 +687,7 @@
     "date_posted": "Aug 25",
     "apply_link": "https://jobright.ai/jobs/info/68ac75e6758f2e4ac3005b55?utm_campaign=1047&utm_source=git",
     "company_url": "https://www.pgim.com",
-    "found_date": "2025-08-29T21:00:35.112046"
+    "found_date": "2025-08-29T21:30:50.641213"
   },
   {
     "company": "The Church of Jesus Christ of Latter-day Saints",
@@ -647,7 +697,7 @@
     "date_posted": "Aug 25",
     "apply_link": "https://jobright.ai/jobs/info/68ac2116758f2e4ac3004574?utm_campaign=1047&utm_source=git",
     "company_url": "https://www.lds.org",
-    "found_date": "2025-08-29T21:00:35.112052"
+    "found_date": "2025-08-29T21:30:50.641219"
   },
   {
     "company": "FECON",
@@ -657,7 +707,7 @@
     "date_posted": "Aug 24",
     "apply_link": "https://jobright.ai/jobs/info/68acc762d627244576e4901b?utm_campaign=1047&utm_source=git",
     "company_url": "http://fecon.com",
-    "found_date": "2025-08-29T21:00:35.112059"
+    "found_date": "2025-08-29T21:30:50.641225"
   },
   {
     "company": "H.B. Fuller",
@@ -667,6 +717,6 @@
     "date_posted": "Aug 24",
     "apply_link": "https://jobright.ai/jobs/info/68a9b61fd627244576e3b579?utm_campaign=1047&utm_source=git",
     "company_url": "http://www.hbfuller.com",
-    "found_date": "2025-08-29T21:00:35.112065"
+    "found_date": "2025-08-29T21:30:50.641231"
   }
 ]
