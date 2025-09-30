@@ -1,5 +1,25 @@
 [
   {
+    "company": "Crown Fund",
+    "position": "Product Management Intern",
+    "location": "California, United States",
+    "work_model": "Remote",
+    "date_posted": "Sep 30",
+    "apply_link": "https://jobright.ai/jobs/info/68dc210a66059a42a715bdab?utm_campaign=1047&utm_source=git",
+    "company_url": "Crownfund.co",
+    "found_date": "2025-09-30T20:36:36.308037"
+  },
+  {
+    "company": "Rockwell Automation",
+    "position": "Intern, Product Management",
+    "location": "Chelmsford, MA",
+    "work_model": "Hybrid",
+    "date_posted": "Sep 30",
+    "apply_link": "https://jobright.ai/jobs/info/68dc1d0397329f2f77322aba?utm_campaign=1047&utm_source=git",
+    "company_url": "http://www.rockwellautomation.com",
+    "found_date": "2025-09-30T20:36:36.308056"
+  },
+  {
     "company": "Xcel Blue",
     "position": "Product Innovation Intern",
     "location": "Philadelphia, PA",
@@ -7,7 +27,7 @@
     "date_posted": "Sep 30",
     "apply_link": "https://jobright.ai/jobs/info/68dc0c51d6470e72cf4d8340?utm_campaign=1047&utm_source=git",
     "company_url": "https://www.linkedin.com/company/108270909",
-    "found_date": "2025-09-30T20:00:44.037297"
+    "found_date": "2025-09-30T20:36:36.308064"
   },
   {
     "company": "Navy Federal Credit Union",
@@ -17,7 +37,7 @@
     "date_posted": "Sep 30",
     "apply_link": "https://jobright.ai/jobs/info/68dbfa2f6f6c5c3fadf3586d?utm_campaign=1047&utm_source=git",
     "company_url": "http://www.navyfederal.org",
-    "found_date": "2025-09-30T20:00:44.037316"
+    "found_date": "2025-09-30T20:36:36.308072"
   },
   {
     "company": "Henkel",
@@ -27,7 +47,7 @@
     "date_posted": "Sep 30",
     "apply_link": "https://jobright.ai/jobs/info/68c8fc8695f5211cd2cecbc8?utm_campaign=1047&utm_source=git",
     "company_url": "http://www.henkel.com",
-    "found_date": "2025-09-30T20:00:44.037325"
+    "found_date": "2025-09-30T20:36:36.308079"
   },
   {
     "company": "GALLO",
@@ -37,7 +57,7 @@
     "date_posted": "Sep 27",
     "apply_link": "https://jobright.ai/jobs/info/68cdbae81ad6b16f0289e5ba?utm_campaign=1047&utm_source=git",
     "company_url": "https://www.gallo.com",
-    "found_date": "2025-09-30T20:00:44.037333"
+    "found_date": "2025-09-30T20:36:36.308086"
   },
   {
     "company": "Ibotta",
@@ -47,6 +67,6 @@
     "date_posted": "Sep 26",
     "apply_link": "https://jobright.ai/jobs/info/68d7574b7a37c712687c9539?utm_campaign=1047&utm_source=git",
     "company_url": "https://home.ibotta.com",
-    "found_date": "2025-09-30T20:00:44.037341"
+    "found_date": "2025-09-30T20:36:36.308092"
   }
 ]
