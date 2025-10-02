@@ -1,5 +1,25 @@
 [
   {
+    "company": "Total Quality Logistics",
+    "position": "Product Manager",
+    "location": "Cincinnati, OH",
+    "work_model": "Hybrid",
+    "date_posted": "Oct 02",
+    "apply_link": "https://jobright.ai/jobs/info/68deb85ba125e75c422b6047?utm_campaign=1047&utm_source=git",
+    "company_url": "http://www.tql.com/",
+    "found_date": "2025-10-02T18:42:28.870450"
+  },
+  {
+    "company": "Koch",
+    "position": "Summer 2026 - Business Systems Analyst/Product Analyst Internship",
+    "location": "Wichita, KS",
+    "work_model": "On Site",
+    "date_posted": "Oct 02",
+    "apply_link": "https://jobright.ai/jobs/info/68deb00da125e75c422b5c10?utm_campaign=1047&utm_source=git",
+    "company_url": "https://www.kochinc.com",
+    "found_date": "2025-10-02T18:42:28.870470"
+  },
+  {
     "company": "Quantum Pulse Consulting",
     "position": "General Intern",
     "location": "United States",
@@ -7,7 +27,17 @@
     "date_posted": "Oct 02",
     "apply_link": "https://jobright.ai/jobs/info/68de627fa125e75c422b4200?utm_campaign=1047&utm_source=git",
     "company_url": "https://qpulse.tech/case-studies/",
-    "found_date": "2025-10-02T18:00:54.197062"
+    "found_date": "2025-10-02T18:42:28.870478"
+  },
+  {
+    "company": "HARTING Technology Group",
+    "position": "Product Manager (Engineering) Intern (Summer 2026)",
+    "location": "Elgin, IL",
+    "work_model": "On Site",
+    "date_posted": "Oct 02",
+    "apply_link": "https://jobright.ai/jobs/info/68dcdd7caccfd24b67e5b0bd?utm_campaign=1047&utm_source=git",
+    "company_url": "https://www.harting.com/",
+    "found_date": "2025-10-02T18:42:28.870486"
   },
   {
     "company": "Electronic Arts (EA)",
@@ -17,7 +47,7 @@
     "date_posted": "Oct 02",
     "apply_link": "https://jobright.ai/jobs/info/68de41dc09bda65a4b62891e?utm_campaign=1047&utm_source=git",
     "company_url": "https://www.ea.com",
-    "found_date": "2025-10-02T18:00:54.197081"
+    "found_date": "2025-10-02T18:42:28.870493"
   },
   {
     "company": "Walturn",
@@ -27,7 +57,7 @@
     "date_posted": "Oct 02",
     "apply_link": "https://jobright.ai/jobs/info/68de37cda125e75c422b2786?utm_campaign=1047&utm_source=git",
     "company_url": "https://www.walturn.com",
-    "found_date": "2025-10-02T18:00:54.197089"
+    "found_date": "2025-10-02T18:42:28.870501"
   },
   {
     "company": "The Walt Disney Company",
@@ -37,7 +67,7 @@
     "date_posted": "Oct 01",
     "apply_link": "https://jobright.ai/jobs/info/68de00f4a125e75c422b0f3b?utm_campaign=1047&utm_source=git",
     "company_url": "https://thewaltdisneycompany.com/",
-    "found_date": "2025-10-02T18:00:54.197097"
+    "found_date": "2025-10-02T18:42:28.870508"
   },
   {
     "company": "Tesla",
@@ -47,7 +77,7 @@
     "date_posted": "Oct 01",
     "apply_link": "https://jobright.ai/jobs/info/68de2e76a125e75c422b1a0f?utm_campaign=1047&utm_source=git",
     "company_url": "https://www.tesla.com",
-    "found_date": "2025-10-02T18:00:54.197104"
+    "found_date": "2025-10-02T18:42:28.870516"
   },
   {
     "company": "Donaldson",
@@ -57,7 +87,7 @@
     "date_posted": "Oct 01",
     "apply_link": "https://jobright.ai/jobs/info/68ddf399a125e75c422b06a2?utm_campaign=1047&utm_source=git",
     "company_url": "http://donaldson.com",
-    "found_date": "2025-10-02T18:00:54.197111"
+    "found_date": "2025-10-02T18:42:28.870523"
   },
   {
     "company": "Donaldson",
@@ -67,7 +97,7 @@
     "date_posted": "Oct 01",
     "apply_link": "https://jobright.ai/jobs/info/68ddf38144d32141e0bfc2ea?utm_campaign=1047&utm_source=git",
     "company_url": "",
-    "found_date": "2025-10-02T18:00:54.197119"
+    "found_date": "2025-10-02T18:42:28.870532"
   },
   {
     "company": "Zebra Technologies",
@@ -77,7 +107,7 @@
     "date_posted": "Oct 01",
     "apply_link": "https://jobright.ai/jobs/info/68dde196a125e75c422af895?utm_campaign=1047&utm_source=git",
     "company_url": "https://www.zebra.com",
-    "found_date": "2025-10-02T18:00:54.197129"
+    "found_date": "2025-10-02T18:42:28.870539"
   },
   {
     "company": "Zebra Technologies",
@@ -87,7 +117,7 @@
     "date_posted": "Oct 01",
     "apply_link": "https://jobright.ai/jobs/info/68dde12944d32141e0bfb52e?utm_campaign=1047&utm_source=git",
     "company_url": "",
-    "found_date": "2025-10-02T18:00:54.197136"
+    "found_date": "2025-10-02T18:42:28.870547"
   },
   {
     "company": "Duolingo for Schools",
@@ -97,7 +127,7 @@
     "date_posted": "Oct 01",
     "apply_link": "https://jobright.ai/jobs/info/68ddcd2409bda65a4b624677?utm_campaign=1047&utm_source=git",
     "company_url": "schools.duolingo.com",
-    "found_date": "2025-10-02T18:00:54.197143"
+    "found_date": "2025-10-02T18:42:28.870554"
   },
   {
     "company": "Univera Healthcare",
@@ -107,7 +137,7 @@
     "date_posted": "Oct 01",
     "apply_link": "https://jobright.ai/jobs/info/68ddc1ffddc10244dd683796?utm_campaign=1047&utm_source=git",
     "company_url": "https://www.univerahealthcare.com",
-    "found_date": "2025-10-02T18:00:54.197149"
+    "found_date": "2025-10-02T18:42:28.870560"
   },
   {
     "company": "Snippd. Inc",
@@ -117,7 +147,7 @@
     "date_posted": "Oct 01",
     "apply_link": "https://jobright.ai/jobs/info/68de974209bda65a4b62ba58?utm_campaign=1047&utm_source=git",
     "company_url": "www.snippd.me",
-    "found_date": "2025-10-02T18:00:54.197156"
+    "found_date": "2025-10-02T18:42:28.870566"
   },
   {
     "company": "Duolingo for Schools",
@@ -127,7 +157,7 @@
     "date_posted": "Oct 01",
     "apply_link": "https://jobright.ai/jobs/info/68ddbf1bddc10244dd683705?utm_campaign=1047&utm_source=git",
     "company_url": "schools.duolingo.com",
-    "found_date": "2025-10-02T18:00:54.197162"
+    "found_date": "2025-10-02T18:42:28.870572"
   },
   {
     "company": "Lifetime Benefit Solutions, Inc.",
@@ -137,17 +167,7 @@
     "date_posted": "Oct 01",
     "apply_link": "https://jobright.ai/jobs/info/68ddb5e9ddc10244dd683388?utm_campaign=1047&utm_source=git",
     "company_url": "http://lifetimebenefitsolutions.com",
-    "found_date": "2025-10-02T18:00:54.197168"
-  },
-  {
-    "company": "Lifetime Benefit Solutions, Inc.",
-    "position": "College Intern I - Summer 2026 - Product Implementation",
-    "location": "Utica, NY",
-    "work_model": "On Site",
-    "date_posted": "Oct 01",
-    "apply_link": "https://jobright.ai/jobs/info/68ddb5bbddc10244dd6832f6?utm_campaign=1047&utm_source=git",
-    "company_url": "",
-    "found_date": "2025-10-02T18:00:54.197174"
+    "found_date": "2025-10-02T18:42:28.870578"
   },
   {
     "company": "Lifetime Benefit Solutions, Inc.",
@@ -157,7 +177,17 @@
     "date_posted": "Oct 01",
     "apply_link": "https://jobright.ai/jobs/info/68ddb5bbddc10244dd6832f7?utm_campaign=1047&utm_source=git",
     "company_url": "",
-    "found_date": "2025-10-02T18:00:54.197180"
+    "found_date": "2025-10-02T18:42:28.870586"
+  },
+  {
+    "company": "Lifetime Benefit Solutions, Inc.",
+    "position": "College Intern I - Summer 2026 - Product Implementation",
+    "location": "Utica, NY",
+    "work_model": "On Site",
+    "date_posted": "Oct 01",
+    "apply_link": "https://jobright.ai/jobs/info/68ddb5bbddc10244dd6832f6?utm_campaign=1047&utm_source=git",
+    "company_url": "",
+    "found_date": "2025-10-02T18:42:28.870592"
   },
   {
     "company": "Lifetime Benefit Solutions, Inc.",
@@ -167,7 +197,7 @@
     "date_posted": "Oct 01",
     "apply_link": "https://jobright.ai/jobs/info/68ddb5adddc10244dd6832c8?utm_campaign=1047&utm_source=git",
     "company_url": "",
-    "found_date": "2025-10-02T18:00:54.197186"
+    "found_date": "2025-10-02T18:42:28.870597"
   },
   {
     "company": "Lifetime Benefit Solutions, Inc.",
@@ -177,7 +207,7 @@
     "date_posted": "Oct 01",
     "apply_link": "https://jobright.ai/jobs/info/68ddb4eba125e75c422ae702?utm_campaign=1047&utm_source=git",
     "company_url": "",
-    "found_date": "2025-10-02T18:00:54.197191"
+    "found_date": "2025-10-02T18:42:28.870603"
   },
   {
     "company": "Lifetime Benefit Solutions, Inc.",
@@ -187,7 +217,7 @@
     "date_posted": "Oct 01",
     "apply_link": "https://jobright.ai/jobs/info/68ddb2b044d32141e0bfa545?utm_campaign=1047&utm_source=git",
     "company_url": "",
-    "found_date": "2025-10-02T18:00:54.197197"
+    "found_date": "2025-10-02T18:42:28.870609"
   },
   {
     "company": "Duolingo",
@@ -197,7 +227,7 @@
     "date_posted": "Oct 01",
     "apply_link": "https://jobright.ai/jobs/info/68dd8b3844d32141e0bf7d4a?utm_campaign=1047&utm_source=git",
     "company_url": "https://www.duolingo.com",
-    "found_date": "2025-10-02T18:00:54.197203"
+    "found_date": "2025-10-02T18:42:28.870615"
   },
   {
     "company": "Community Economic Defense Project",
@@ -207,7 +237,7 @@
     "date_posted": "Oct 01",
     "apply_link": "https://jobright.ai/jobs/info/68dd837944d32141e0bf7667?utm_campaign=1047&utm_source=git",
     "company_url": "https://www.cedproject.org",
-    "found_date": "2025-10-02T18:00:54.197211"
+    "found_date": "2025-10-02T18:42:28.870623"
   },
   {
     "company": "Duolingo",
@@ -217,7 +247,7 @@
     "date_posted": "Oct 01",
     "apply_link": "https://jobright.ai/jobs/info/68dd7b2844d32141e0bf7116?utm_campaign=1047&utm_source=git",
     "company_url": "https://www.duolingo.com",
-    "found_date": "2025-10-02T18:00:54.197217"
+    "found_date": "2025-10-02T18:42:28.870630"
   },
   {
     "company": "Excellus BCBS",
@@ -227,7 +257,7 @@
     "date_posted": "Oct 01",
     "apply_link": "https://jobright.ai/jobs/info/68dd73b9a125e75c422aadaf?utm_campaign=1047&utm_source=git",
     "company_url": "https://www.excellusbcbs.com/",
-    "found_date": "2025-10-02T18:00:54.197223"
+    "found_date": "2025-10-02T18:42:28.870636"
   },
   {
     "company": "AaronBux Asset Management Firm LLC",
@@ -237,7 +267,7 @@
     "date_posted": "Oct 01",
     "apply_link": "https://jobright.ai/jobs/info/68dd6e6addc10244dd67f495?utm_campaign=1047&utm_source=git",
     "company_url": "www.AaronBux.com",
-    "found_date": "2025-10-02T18:00:54.197233"
+    "found_date": "2025-10-02T18:42:28.870647"
   },
   {
     "company": "Excellus BCBS",
@@ -247,7 +277,7 @@
     "date_posted": "Oct 01",
     "apply_link": "https://jobright.ai/jobs/info/68dd67b7ddc10244dd67f0ff?utm_campaign=1047&utm_source=git",
     "company_url": "https://www.excellusbcbs.com/",
-    "found_date": "2025-10-02T18:00:54.197239"
+    "found_date": "2025-10-02T18:42:28.870653"
   },
   {
     "company": "Excellus BCBS",
@@ -257,7 +287,7 @@
     "date_posted": "Oct 01",
     "apply_link": "https://jobright.ai/jobs/info/68dd67b0ddc10244dd67f0f0?utm_campaign=1047&utm_source=git",
     "company_url": "",
-    "found_date": "2025-10-02T18:00:54.197246"
+    "found_date": "2025-10-02T18:42:28.870660"
   },
   {
     "company": "Excellus BCBS",
@@ -267,7 +297,7 @@
     "date_posted": "Oct 01",
     "apply_link": "https://jobright.ai/jobs/info/68dd6469ddc10244dd67f056?utm_campaign=1047&utm_source=git",
     "company_url": "",
-    "found_date": "2025-10-02T18:00:54.197251"
+    "found_date": "2025-10-02T18:42:28.870666"
   },
   {
     "company": "Excellus BCBS",
@@ -277,7 +307,7 @@
     "date_posted": "Oct 01",
     "apply_link": "https://jobright.ai/jobs/info/68dd63efddc10244dd67ef5a?utm_campaign=1047&utm_source=git",
     "company_url": "",
-    "found_date": "2025-10-02T18:00:54.197257"
+    "found_date": "2025-10-02T18:42:28.870672"
   },
   {
     "company": "Munich Re",
@@ -287,7 +317,7 @@
     "date_posted": "Oct 01",
     "apply_link": "https://jobright.ai/jobs/info/68dd600fddc10244dd67ed79?utm_campaign=1047&utm_source=git",
     "company_url": "https://www.munichre.com",
-    "found_date": "2025-10-02T18:00:54.197263"
+    "found_date": "2025-10-02T18:42:28.870678"
   },
   {
     "company": "EX Venture Inc.",
@@ -297,7 +327,7 @@
     "date_posted": "Oct 01",
     "apply_link": "https://jobright.ai/jobs/info/68dd3b8544d32141e0bf4c35?utm_campaign=1047&utm_source=git",
     "company_url": "https://ex-zerocarbon.com/",
-    "found_date": "2025-10-02T18:00:54.197269"
+    "found_date": "2025-10-02T18:42:28.870684"
   },
   {
     "company": "EX Venture Inc.",
@@ -307,7 +337,7 @@
     "date_posted": "Oct 01",
     "apply_link": "https://jobright.ai/jobs/info/68dd3b3f44d32141e0bf4bb5?utm_campaign=1047&utm_source=git",
     "company_url": "",
-    "found_date": "2025-10-02T18:00:54.197274"
+    "found_date": "2025-10-02T18:42:28.870691"
   },
   {
     "company": "Avis Budget Group",
@@ -317,7 +347,7 @@
     "date_posted": "Oct 01",
     "apply_link": "https://jobright.ai/jobs/info/68dd3b0244d32141e0bf4b42?utm_campaign=1047&utm_source=git",
     "company_url": "http://avisbudgetgroup.com",
-    "found_date": "2025-10-02T18:00:54.197280"
+    "found_date": "2025-10-02T18:42:28.870696"
   },
   {
     "company": "HNI Workplace Furnishings, LLC",
@@ -327,7 +357,7 @@
     "date_posted": "Oct 01",
     "apply_link": "https://jobright.ai/jobs/info/68de4f1c09bda65a4b6292f2?utm_campaign=1047&utm_source=git",
     "company_url": "https://www.hnicorp.com/careers",
-    "found_date": "2025-10-02T18:00:54.197286"
+    "found_date": "2025-10-02T18:42:28.870702"
   },
   {
     "company": "United Airlines",
@@ -337,7 +367,7 @@
     "date_posted": "Sep 30",
     "apply_link": "https://jobright.ai/jobs/info/68dcaf56a125e75c422a3fbe?utm_campaign=1047&utm_source=git",
     "company_url": "https://www.united.com",
-    "found_date": "2025-10-02T18:00:54.197292"
+    "found_date": "2025-10-02T18:42:28.870708"
   },
   {
     "company": "GALLO",
@@ -347,7 +377,7 @@
     "date_posted": "Sep 30",
     "apply_link": "https://jobright.ai/jobs/info/68cdbae81ad6b16f0289e5ba?utm_campaign=1047&utm_source=git",
     "company_url": "https://www.gallo.com",
-    "found_date": "2025-10-02T18:00:54.197298"
+    "found_date": "2025-10-02T18:42:28.870714"
   },
   {
     "company": "Epic Games",
@@ -357,7 +387,7 @@
     "date_posted": "Sep 30",
     "apply_link": "https://jobright.ai/jobs/info/68dc880eddc10244dd676468?utm_campaign=1047&utm_source=git",
     "company_url": "https://epicgames.com",
-    "found_date": "2025-10-02T18:00:54.197303"
+    "found_date": "2025-10-02T18:42:28.870720"
   },
   {
     "company": "Xcel Energy",
@@ -367,7 +397,7 @@
     "date_posted": "Sep 30",
     "apply_link": "https://jobright.ai/jobs/info/68dc838aaccfd24b67e563a3?utm_campaign=1047&utm_source=git",
     "company_url": "https://www.xcelenergy.com/",
-    "found_date": "2025-10-02T18:00:54.197309"
+    "found_date": "2025-10-02T18:42:28.870725"
   },
   {
     "company": "Xcel Energy",
@@ -377,7 +407,7 @@
     "date_posted": "Sep 30",
     "apply_link": "https://jobright.ai/jobs/info/68dc7c63a125e75c422a119b?utm_campaign=1047&utm_source=git",
     "company_url": "",
-    "found_date": "2025-10-02T18:00:54.197315"
+    "found_date": "2025-10-02T18:42:28.870731"
   },
   {
     "company": "Xcel Energy",
@@ -387,7 +417,7 @@
     "date_posted": "Sep 30",
     "apply_link": "https://jobright.ai/jobs/info/68dc7c0ca125e75c422a1129?utm_campaign=1047&utm_source=git",
     "company_url": "",
-    "found_date": "2025-10-02T18:00:54.197320"
+    "found_date": "2025-10-02T18:42:28.870737"
   },
   {
     "company": "CLAAS",
@@ -397,7 +427,7 @@
     "date_posted": "Sep 30",
     "apply_link": "https://jobright.ai/jobs/info/68dc78dcaccfd24b67e55b9a?utm_campaign=1047&utm_source=git",
     "company_url": "https://www.claas.de/",
-    "found_date": "2025-10-02T18:00:54.197326"
+    "found_date": "2025-10-02T18:42:28.870743"
   },
   {
     "company": "ServiceNow",
@@ -407,7 +437,7 @@
     "date_posted": "Sep 30",
     "apply_link": "https://jobright.ai/jobs/info/68dc637cddc10244dd674f85?utm_campaign=1047&utm_source=git",
     "company_url": "http://www.servicenow.com",
-    "found_date": "2025-10-02T18:00:54.197332"
+    "found_date": "2025-10-02T18:42:28.870749"
   },
   {
     "company": "GoFundMe",
@@ -417,7 +447,7 @@
     "date_posted": "Sep 30",
     "apply_link": "https://jobright.ai/jobs/info/68dc5fa9accfd24b67e54e45?utm_campaign=1047&utm_source=git",
     "company_url": "http://www.gofundme.com",
-    "found_date": "2025-10-02T18:00:54.197338"
+    "found_date": "2025-10-02T18:42:28.870755"
   },
   {
     "company": "Epic Games",
@@ -427,7 +457,7 @@
     "date_posted": "Sep 30",
     "apply_link": "https://jobright.ai/jobs/info/68dc5c4addc10244dd674a95?utm_campaign=1047&utm_source=git",
     "company_url": "https://epicgames.com",
-    "found_date": "2025-10-02T18:00:54.197343"
+    "found_date": "2025-10-02T18:42:28.870761"
   },
   {
     "company": "Macy's",
@@ -437,7 +467,17 @@
     "date_posted": "Sep 30",
     "apply_link": "https://jobright.ai/jobs/info/68dc8b37accfd24b67e567c8?utm_campaign=1047&utm_source=git",
     "company_url": "http://www.macysjobs.com",
-    "found_date": "2025-10-02T18:00:54.197349"
+    "found_date": "2025-10-02T18:42:28.870767"
+  },
+  {
+    "company": "Xcel Energy",
+    "position": "Mass Market Strategy Business Intern   - MN, CO, WI",
+    "location": "Minneapolis, MN, 55401",
+    "work_model": "On Site",
+    "date_posted": "Sep 30",
+    "apply_link": "https://jobright.ai/jobs/info/68dc7d26accfd24b67e55f49?utm_campaign=1047&utm_source=git",
+    "company_url": "https://www.xcelenergy.com/",
+    "found_date": "2025-10-02T18:42:28.870772"
   },
   {
     "company": "Xcel Energy",
@@ -446,8 +486,8 @@
     "work_model": "On Site",
     "date_posted": "Sep 30",
     "apply_link": "https://jobright.ai/jobs/info/68dc7db8ddc10244dd67614d?utm_campaign=1047&utm_source=git",
-    "company_url": "https://www.xcelenergy.com/",
-    "found_date": "2025-10-02T18:00:54.197355"
+    "company_url": "",
+    "found_date": "2025-10-02T18:42:28.870778"
   },
   {
     "company": "Xcel Energy",
@@ -457,17 +497,7 @@
     "date_posted": "Sep 30",
     "apply_link": "https://jobright.ai/jobs/info/68dc7dbba125e75c422a16c9?utm_campaign=1047&utm_source=git",
     "company_url": "",
-    "found_date": "2025-10-02T18:00:54.197361"
-  },
-  {
-    "company": "Xcel Energy",
-    "position": "Mass Market Strategy Business Intern   - MN, CO, WI",
-    "location": "Minneapolis, MN, 55401",
-    "work_model": "On Site",
-    "date_posted": "Sep 30",
-    "apply_link": "https://jobright.ai/jobs/info/68dc7d26accfd24b67e55f49?utm_campaign=1047&utm_source=git",
-    "company_url": "",
-    "found_date": "2025-10-02T18:00:54.197366"
+    "found_date": "2025-10-02T18:42:28.870784"
   },
   {
     "company": "Watts Water Technologies",
@@ -477,7 +507,7 @@
     "date_posted": "Sep 30",
     "apply_link": "https://jobright.ai/jobs/info/68dc7d26ddc10244dd675f00?utm_campaign=1047&utm_source=git",
     "company_url": "https://www.watts.com",
-    "found_date": "2025-10-02T18:00:54.197372"
+    "found_date": "2025-10-02T18:42:28.870790"
   },
   {
     "company": "Nestl\u00e9",
@@ -487,7 +517,7 @@
     "date_posted": "Sep 30",
     "apply_link": "https://jobright.ai/jobs/info/68dc4027a125e75c4229ece6?utm_campaign=1047&utm_source=git",
     "company_url": "https://www.nestle.com",
-    "found_date": "2025-10-02T18:00:54.197380"
+    "found_date": "2025-10-02T18:42:28.870797"
   },
   {
     "company": "Nestl\u00e9",
@@ -497,7 +527,7 @@
     "date_posted": "Sep 30",
     "apply_link": "https://jobright.ai/jobs/info/68dc3f69a125e75c4229eb4c?utm_campaign=1047&utm_source=git",
     "company_url": "",
-    "found_date": "2025-10-02T18:00:54.197386"
+    "found_date": "2025-10-02T18:42:28.870804"
   },
   {
     "company": "United Airlines",
@@ -507,7 +537,7 @@
     "date_posted": "Sep 30",
     "apply_link": "https://jobright.ai/jobs/info/68dc7ccba125e75c422a1319?utm_campaign=1047&utm_source=git",
     "company_url": "https://www.united.com",
-    "found_date": "2025-10-02T18:00:54.197392"
+    "found_date": "2025-10-02T18:42:28.870810"
   },
   {
     "company": "enGen",
@@ -517,7 +547,7 @@
     "date_posted": "Sep 30",
     "apply_link": "https://jobright.ai/jobs/info/68dd414da125e75c422a8fcf?utm_campaign=1047&utm_source=git",
     "company_url": "https://goengen.com",
-    "found_date": "2025-10-02T18:00:54.197398"
+    "found_date": "2025-10-02T18:42:28.870816"
   },
   {
     "company": "Avis Budget Group",
@@ -527,7 +557,7 @@
     "date_posted": "Sep 30",
     "apply_link": "https://jobright.ai/jobs/info/68dc7d6fa125e75c422a158b?utm_campaign=1047&utm_source=git",
     "company_url": "http://avisbudgetgroup.com",
-    "found_date": "2025-10-02T18:00:54.197403"
+    "found_date": "2025-10-02T18:42:28.870822"
   },
   {
     "company": "Rockwell Automation",
@@ -537,7 +567,7 @@
     "date_posted": "Sep 30",
     "apply_link": "https://jobright.ai/jobs/info/68dc1d0397329f2f77322aba?utm_campaign=1047&utm_source=git",
     "company_url": "http://www.rockwellautomation.com",
-    "found_date": "2025-10-02T18:00:54.197409"
+    "found_date": "2025-10-02T18:42:28.870828"
   },
   {
     "company": "Xcel Blue",
@@ -547,7 +577,7 @@
     "date_posted": "Sep 30",
     "apply_link": "https://jobright.ai/jobs/info/68dc0c51d6470e72cf4d8340?utm_campaign=1047&utm_source=git",
     "company_url": "https://www.linkedin.com/company/108270909",
-    "found_date": "2025-10-02T18:00:54.197415"
+    "found_date": "2025-10-02T18:42:28.870834"
   },
   {
     "company": "Highmark Health",
@@ -557,7 +587,7 @@
     "date_posted": "Sep 30",
     "apply_link": "https://jobright.ai/jobs/info/68dc5edfa125e75c422a0160?utm_campaign=1047&utm_source=git",
     "company_url": "https://www.highmarkhealth.org/hmk",
-    "found_date": "2025-10-02T18:00:54.197421"
+    "found_date": "2025-10-02T18:42:28.870840"
   },
   {
     "company": "Navy Federal Credit Union",
@@ -567,7 +597,7 @@
     "date_posted": "Sep 30",
     "apply_link": "https://jobright.ai/jobs/info/68dbfa2f6f6c5c3fadf3586d?utm_campaign=1047&utm_source=git",
     "company_url": "http://www.navyfederal.org",
-    "found_date": "2025-10-02T18:00:54.197427"
+    "found_date": "2025-10-02T18:42:28.870846"
   },
   {
     "company": "Watts Water Technologies",
@@ -577,7 +607,7 @@
     "date_posted": "Sep 30",
     "apply_link": "https://jobright.ai/jobs/info/68dc5f0da125e75c422a01ef?utm_campaign=1047&utm_source=git",
     "company_url": "https://www.watts.com",
-    "found_date": "2025-10-02T18:00:54.197433"
+    "found_date": "2025-10-02T18:42:28.870851"
   },
   {
     "company": "Henkel",
@@ -587,7 +617,7 @@
     "date_posted": "Sep 30",
     "apply_link": "https://jobright.ai/jobs/info/68c8fc8695f5211cd2cecbc8?utm_campaign=1047&utm_source=git",
     "company_url": "http://www.henkel.com",
-    "found_date": "2025-10-02T18:00:54.197438"
+    "found_date": "2025-10-02T18:42:28.870857"
   },
   {
     "company": "Cox Enterprises",
@@ -597,7 +627,7 @@
     "date_posted": "Sep 30",
     "apply_link": "https://jobright.ai/jobs/info/68dc3a20b3249156189626da?utm_campaign=1047&utm_source=git",
     "company_url": "http://coxenterprises.com",
-    "found_date": "2025-10-02T18:00:54.197444"
+    "found_date": "2025-10-02T18:42:28.870862"
   },
   {
     "company": "Cox Enterprises",
@@ -607,7 +637,7 @@
     "date_posted": "Sep 30",
     "apply_link": "https://jobright.ai/jobs/info/68dc39f9a271e745b8a7cfa1?utm_campaign=1047&utm_source=git",
     "company_url": "",
-    "found_date": "2025-10-02T18:00:54.197450"
+    "found_date": "2025-10-02T18:42:28.870868"
   },
   {
     "company": "Stellantis",
@@ -617,7 +647,7 @@
     "date_posted": "Sep 28",
     "apply_link": "https://jobright.ai/jobs/info/68dcf5e8ddc10244dd67bd74?utm_campaign=1047&utm_source=git",
     "company_url": "https://www.stellantis.com/",
-    "found_date": "2025-10-02T18:00:54.197456"
+    "found_date": "2025-10-02T18:42:28.870874"
   },
   {
     "company": "Ibotta",
@@ -627,7 +657,7 @@
     "date_posted": "Sep 27",
     "apply_link": "https://jobright.ai/jobs/info/68d7574b7a37c712687c9539?utm_campaign=1047&utm_source=git",
     "company_url": "https://home.ibotta.com",
-    "found_date": "2025-10-02T18:00:54.197461"
+    "found_date": "2025-10-02T18:42:28.870880"
   },
   {
     "company": "Red Ventures",
@@ -637,6 +667,6 @@
     "date_posted": "Sep 26",
     "apply_link": "https://jobright.ai/jobs/info/68dca5e8a125e75c422a3876?utm_campaign=1047&utm_source=git",
     "company_url": "http://www.redventures.com",
-    "found_date": "2025-10-02T18:00:54.197467"
+    "found_date": "2025-10-02T18:42:28.870886"
   }
 ]
